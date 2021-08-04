@@ -1,8 +1,9 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "", "engines": {
-    "node": "14.17.1"
+  "description": "", 
+  "engines": {
+    "node": "14.x"
   },
   "main": "app.js",
   "scripts": {
